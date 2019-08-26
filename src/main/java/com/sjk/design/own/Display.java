@@ -1,4 +1,4 @@
-package com.sjk.design;
+package com.sjk.design.own;
 
 public class Display implements Subscriber {
 
